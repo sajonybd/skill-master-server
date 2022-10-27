@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const courses = require('./api/courses.json');
+const blogs = require('./api/blogs.json');
 const cors = require('cors');
 const port = process.env.PORT || 5000;
 
@@ -21,6 +22,10 @@ app.get('/courses/:id', (req, res) => {
   const course = courses.find(cr => cr.id === id) || {};
   console.log(course);
   res.send(course)
+})
+
+app.get('/blogs', (req, res) => {
+  res.send(blogs)
 })
 
 app.listen(port, () => {
