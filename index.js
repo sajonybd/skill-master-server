@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
-  res.send('Hello World Buddy!')
+  res.send('Skill Master API Server Running!')
 })
 
 app.get('/courses', (req, res) => {
