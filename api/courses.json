@@ -3,42 +3,42 @@
       "id": 1,
       "title": "Python Programming Masterclass",
       "price": 20,
-      "img": "https://skill-master-server.vercel.app/img/python-programming.jpg",
+      "img": "https://skill-master-server.vercel.app/static/img/python-programming.jpg",
       "description": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3"
     },
     {
       "id": 2,
       "title": "C# Basics for Beginners",
       "price": 25,
-      "img": "https://skill-master-server.vercel.app/img/c-hash.jpg",
+      "img": "https://skill-master-server.vercel.app/static/img/c-hash.jpg",
       "description": "Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!"
     },
     {
       "id": 3,
       "title": "Beginning C++ Programming",
       "price": 30,
-      "img": "https://skill-master-server.vercel.app/img/c-plus-plus.png",
+      "img": "https://skill-master-server.vercel.app/static/img/c-plus-plus.png",
       "description": "Learn Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below."
     },
     {
       "id": 4,
       "title": "NodeJS - The Complete Guide",
       "price": 35,
-      "img": "https://skill-master-server.vercel.app/img/node-js.png",
+      "img": "https://skill-master-server.vercel.app/static/img/node-js.png",
       "description": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!"
     },
     {
       "id": 5,
       "title": "JAVA Programming Masterclass",
       "price": 40,
-      "img": "https://skill-master-server.vercel.app/img/java-programming.jpg",
+      "img": "https://skill-master-server.vercel.app/static/img/java-programming.jpg",
       "description": "Deep Dive in Core Java programming -Standard Edition. A Practical approach to learn Java. Become a Java Expert"
     },
     {
       "id": 5,
       "title": "REACT Front to Back 2023",
       "price": 45,
-      "img": "https://skill-master-server.vercel.app/img/react-programming.png",
+      "img": "https://skill-master-server.vercel.app/static/img/react-programming.png",
       "description": "Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app"
     }
   ]

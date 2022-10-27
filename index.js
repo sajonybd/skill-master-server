@@ -7,10 +7,10 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-app.use(express.static('public'));
+app.use('/static', express.static(__dirname + '/public'));
 
 app.get('/', (req, res) => {
-  res.send('Skill Master API Server Running!')
+  res.send('Skill Master API Server Running v1.0!')
 })
 
 app.get('/courses', (req, res) => {
