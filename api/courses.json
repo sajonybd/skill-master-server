@@ -1,8 +1,38 @@
 [
     {
-    "id": 1,
-    "title": "Python Programming Masterclass",
-    "img": "https://skill-master-server.vercel.app/img/python.jpg",
-    "description": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3"
+        "id": 1,
+        "title": "Python Programming Masterclass",
+        "img": "https://skill-master-server.vercel.app/img/python-programming.jpg",
+        "description": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3"
+    },
+    {
+        "id": 2,
+        "title": "C# Basics for Beginners",
+        "img": "https://skill-master-server.vercel.app/img/c-hash.jpg",
+        "description": "Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!"
+    },
+    {
+        "id": 3,
+        "title": "Beginning C++ Programming",
+        "img": "https://skill-master-server.vercel.app/img/c-plus-plus.png",
+        "description": "Learn Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below."
+    },
+    {
+        "id": 4,
+        "title": "NodeJS - The Complete Guide",
+        "img": "https://skill-master-server.vercel.app/img/node-js.png",
+        "description": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!"
+    },
+    {
+        "id": 5,
+        "title": "JAVA Programming Masterclass",
+        "img": "https://skill-master-server.vercel.app/img/java-programming.jpg",
+        "description": "Deep Dive in Core Java programming -Standard Edition. A Practical approach to learn Java. Become a Java Expert"
+    },
+    {
+        "id": 5,
+        "title": "REACT Front to Back 2023",
+        "img": "https://skill-master-server.vercel.app/img/react-programming.png",
+        "description": "Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app"
     }
 ]
